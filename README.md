@@ -239,6 +239,7 @@ _Implementations of Example, Simulation and SampleServer that are running on the
 - `opc.tcp://milo.digitalpetri.com:62541/milo` - [Demo Server](https://github.com/eclipse/milo#public-demo-server) based on eclipse/milo
 - `opc.tcp://opcuademo.sterfive.com:26543` - [Demo Server based on NodeOPCUA](https://github.com/node-opcua)
 - [Azure OPC UA Sample](https://github.com/Azure-Samples/iot-edge-opc-plc) - sample server in c# 
+- [fakeplc](https://github.com/DanShinde/fakeplc) - Fake PLC for test suites: OPC UA server and Modbus TCP from one YAML file, with a pytest plugin, written in Python on opcua-asyncio. [MIT]
 - [List of publicly availavle OPC UA Servers and Clients](https://github.com/node-opcua/node-opcua/wiki/publicly-available-OPC-UA-Servers-and-Clients)
 
 ## Server and client applications
@@ -262,6 +263,7 @@ _Implementations of server and client applications and other examples._
 - [OPC UA primer](https://github.com/ntd/opcua-primer) - A sample OPC UA server based on `open62541` and on a model design XML. [MIT]
 - [opcua-skills/plug-and-produce](https://github.com/opcua-skills/plug-and-produce) - Plug-and-Produce System Architecture for Robotic Applications using OPC UA [proprietary]
 - [convertersystems/opc-ua-samples](https://github.com/convertersystems/opc-ua-samples) - Sample HMIs using OPC Unified Architecture (OPC UA) and Visual Studio. [MIT]
+- [TagScope](https://github.com/DanShinde/tagscope) - Logs OPC UA subscriptions to SQLite or PostgreSQL and shows them in a live web dashboard with trends, alarms and an address space browser. [MIT]
 
 ## Gateways (OPC Classic)
 
